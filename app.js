@@ -1,21 +1,34 @@
 const projects = [
-  {
-    title: "React Theme Toggle",
-    description: "Light/Dark mode using Context API",
-    live: "https://your-live-link.netlify.app",
-    github: "https://github.com/utpanna-pradhan/theme-toggle",
+   {
+    title: "Architectural-studio-lab",
+    description: "An interior design website to showcase their work",
+    live: "https://architectural-studio-lab.vercel.app/",
+    github: "https://github.com/nitink3006/Architectural-Studio-Lab",
   },
+  {
+    title: "Github-Profile-Analyzer",
+    description: "It allow users to enter a GitHub username and return repositories and visualize commit activity.",
+    live: "https://github-profile-analyzer-navy.vercel.app/",
+    github: "https://github.com/utpanna-pradhan/Github-Profile-Analyzer",
+  },
+ 
   {
     title: "Note App",
     description: "CRUD note app with local storage",
-    live: "https://note-app-demo.netlify.app",
-    github: "https://github.com/utpanna-pradhan/note-app",
+    live: "https://note-app-kappa-flax.vercel.app/",
+    github: "https://github.com/utpanna-pradhan/NoteApp",
   },
   {
-    title: "GitHub Profile Analyzer",
-    description: "Analyze GitHub profile using API",
-    live: "https://github-analyzer.netlify.app",
-    github: "https://github.com/utpanna-pradhan/github-analyzer",
+    title: "Authentication Context",
+    description: "Manage global authentication state (login/logout) with local storage",
+    live: "https://auth-context-orpin.vercel.app/",
+    github: "https://github.com/utpanna-pradhan/Auth-Context",
+  },
+  {
+    title: "React Theme Switcher",
+    description: "Light/Dark mode using Context API",
+    live: "https://theme-switcher-nine-psi.vercel.app/",
+    github: "https://github.com/utpanna-pradhan/Theme-Switcher",
   },
 ];
 
